@@ -19,4 +19,6 @@ The accuracy of the system is obtained by testing the system using the testing d
  </ul>
  </br>
  <b>CONCLUSION</B>
+ We have gone through many steps in the advancements of medicine. In the near future, technology will be fast approaching and streamlining processes that usually took days, sometimes weeks to complete. The advantages of machine learning and artificial intelligence in diagnosis have been pointed out very heavily, and the most important part of the prediction taking very less time compared to an actual diagnosis, is reason enough to consider the use of Machine Learning for Cardiac Diagnosis.
+The most immediate advantage of a faster diagnosis is the early detection of heart risk in patients with multiple heart risk factors. There are many other advantages in the study of demographics and the deeper research of cardiology for which many such machine learning tools need to be implemented.
  

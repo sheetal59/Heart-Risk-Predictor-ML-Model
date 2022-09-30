@@ -4,8 +4,8 @@ The proposed work is the construction of an ML model (could be a Support Vector 
 
 Having a huge number of data, such as cholesterol, blood pressure, heart rate, glucose levels, and even other behavioural data such as smoking history, and other prevalent health issues, this seemingly random data is streamlined into information that is fed into machine learning algorithms, to predict whether or not a person is risk-free.
 
- With proper visualization and various other accuracy metrics, we can correlate which variables are essential markers of predicting heart risk. 
- ***WORKING***
+ With proper visualization and various other accuracy metrics, we can correlate which variables are essential markers of predicting heart risk.</br> 
+ ***WORKING***</br>
  The working of the system starts with the collection of data and selecting the important attributes. 
 Then the required data is preprocessed into the required format. The data is then divided into two parts training and testing data.
  The algorithms are applied and the model is trained using the training data. 
